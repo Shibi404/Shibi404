@@ -17,9 +17,8 @@ I am Shibi Krishna 😃. I am from Palakkad, Kerala and currently doing my B.Tec
 
 ## My Github Stats 📈
 
-![Shibi's Github Stats](https://github-readme-stats.vercel.app/api?username=Shibi404&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Shibi's Github Stats](https://github-readme-stats-fast.vercel.app/api?username=Shibi404&show_icons=true&theme=tokyonight)
+![Shibi's Github Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Shibi404&theme=tokyonight)
 
 ## My Skills 👨🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bootstrap,c,cs,cpp,css,discord,github,html,java,js,mysql,nodejs,py,react&theme=dark)](https://skillicons.dev)
